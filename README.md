@@ -77,7 +77,7 @@ print(df.head())
 | office.discount   | resell    | —         | —             | 100            | 58     | 6      | united-domains GmbH |
 | air.discount      | premium   | $260      | $260          | 84             | 49     | 3      | namecheap           |
 | agile.discount    | available | $7.99     | $43.99        | 92             | 41     | 5      | name.com            |
-| zero.discount     | resell    | —         | —             | 112            | 54     | 4      | Dynadot Inc         |
+| zero.discount     | resell    | —         | —             | 112            | 53     | 4      | Dynadot Inc         |
 | security.discount | premium   | $128.70   | $128.70       | 70             | 49     | 8      | namecheap           |
 | craft.discount    | available | $7.99     | $43.99        | 70             | 41     | 5      | name.com            |
 | business.discount | resell    | —         | —             | 100            | 53     | 8      | Sav.com, LLC - 35   |
