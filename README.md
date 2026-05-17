@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .discount one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,583 domains · **Median ask:** $17.53 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/discount`  
 **Best for:** founders, investors, studios
 
@@ -80,9 +80,9 @@ print(df.head())
 | homes.discount       | premium   | $123.75   | —             | 86             | 34     | 5      | name.com         |
 | slots.discount       | available | $7.99     | —             | 49             | 31     | 5      | name.com         |
 | sites.discount       | premium   | $82.50    | —             | 53             | 26     | 5      | name.com         |
-| popup.discount       | available | $7.99     | —             | 84             | 29     | 6      | name.com         |
-| products.discount    | premium   | $82.50    | —             | 60             | 23     | 8      | name.com         |
 | blocks.discount      | available | $7.99     | —             | 53             | 29     | 6      | name.com         |
+| products.discount    | premium   | $82.50    | —             | 60             | 23     | 8      | name.com         |
+| cams.discount        | available | $7.99     | —             | 52             | 29     | 4      | name.com         |
 | Tshirts.discount     | premium   | $250      | —             | 70             | 20     | 8      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DISCOUNT One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DISCOUNT One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
