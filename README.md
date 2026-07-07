@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .discount one-word domains 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,583 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,583 domains · **Median ask:** $17.53 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,583 domains · **Median ask:** $17.95 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/discount`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/discount`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .DISCOUNT one-word dom
 
 ### Files
 
-- `discount.csv` — public CSV extract (1,000 rows)
-- `discount.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `discount.csv`, public CSV extract (1,000 rows)
+- `discount.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| WiFi.discount        | available | $39.98    | —             | 83             | 37     | 5      | namecheap        |
-| pestcontrol.discount | resell    | —         | —             | 74             | 16     | 12     | GoDaddy.com, LLC |
-| farmers.discount     | premium   | $41.25    | —             | 54             | 59     | 7      | name.com         |
-| aliens.discount      | available | $7.99     | —             | 56             | 35     | 6      | name.com         |
-| extras.discount      | resell    | —         | —             | 56             | 11     | 6      | InterNetX GmbH   |
-| jobs.discount        | premium   | $1,000    | —             | 79             | 42     | 4      | name.com         |
-| Cats.discount        | available | $39.98    | —             | 59             | 33     | 4      | namecheap        |
-| coins.discount       | premium   | $250      | —             | 56             | 41     | 5      | name.com         |
-| William.discount     | available | $39.98    | —             | 74             | 31     | 7      | namecheap        |
-| Tools.discount       | premium   | $280      | $280          | 56             | 40     | 5      | namecheap        |
-| letsgo.discount      | available | $7.99     | —             | 57             | 31     | 7      | name.com         |
-| events.discount      | premium   | $82.50    | —             | 68             | 37     | 6      | name.com         |
-| maps.discount        | available | $7.99     | —             | 56             | 31     | 4      | name.com         |
-| homes.discount       | premium   | $123.75   | —             | 86             | 34     | 5      | name.com         |
-| slots.discount       | available | $7.99     | —             | 49             | 31     | 5      | name.com         |
-| sites.discount       | premium   | $82.50    | —             | 53             | 26     | 5      | name.com         |
-| gods.discount        | available | $7.99     | —             | 72             | 29     | 4      | name.com         |
-| products.discount    | premium   | $82.50    | —             | 60             | 23     | 8      | name.com         |
-| blocks.discount      | available | $7.99     | —             | 53             | 29     | 6      | name.com         |
-| Tshirts.discount     | premium   | $250      | —             | 70             | 20     | 8      | name.com         |
+| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar             |
+| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------- |
+| Fla.discount         | available | $7.99     | —             | medium         | low    | 3      | name.com              |
+| business.discount    | resell    | —         | —             | high           | medium | 8      | Sav.com, LLC - 35     |
+| aim.discount         | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo              |
+| atop.discount        | available | $7.99     | —             | medium         | low    | 4      | name.com              |
+| breakfast.discount   | resell    | —         | —             | high           | low    | 9      | GoDaddy.com, LLC      |
+| any.discount         | premium   | $250      | —             | high           | medium | 3      | name.com              |
+| axis.discount        | available | $7.99     | —             | medium         | medium | 4      | name.com              |
+| photography.discount | resell    | —         | —             | medium         | low    | 11     | 101domain GRS Limited |
+| apt.discount         | premium   | $123.75   | —             | high           | low    | 3      | name.com              |
+| boom.discount        | available | $7.99     | —             | high           | medium | 4      | name.com              |
+| bar.discount         | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo              |
+| demo.discount        | available | $7.99     | —             | high           | medium | 4      | name.com              |
+| but.discount         | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo              |
+| dime.discount        | available | $7.99     | —             | medium         | low    | 4      | name.com              |
+| far.discount         | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo              |
+| dose.discount        | available | $7.99     | —             | high           | low    | 4      | name.com              |
+| IDK.discount         | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo              |
+| earn.discount        | available | $7.99     | —             | medium         | low    | 4      | name.com              |
+| jar.discount         | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo              |
+| feet.discount        | available | $7.99     | —             | high           | low    | 4      | name.com              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .discount domains. The extension makes the commercial intent explicit, so the strongest names are the ones where the word reads naturally with .discount and instantly signals a retail, offer, or savings context. Examples such as overnight.discount, present.discount, rose.discount, donut.discount, and quality.discount show the range: some are broad and brandable, while others are niche, literal, or category-specific. When comparing these domains, focus on whether the keyword is easy to remember, whether it creates a credible offer-led phrase, and whether the ask level fits the likely long-term value of a .discount name.
+This selection covers 12,583 one-word and short compound domain names on the .discount TLD, including examples like backyard.discount, coffeemilk.discount, and bonvoyage.discount. The median ask across the set is near $18, placing most names within reach for a single-domain purchase or a broader portfolio. Compound names built around retail, coupon, and lifestyle themes fit well with the sale-oriented meaning of the .discount extension. When comparing these domains, focus on spelling clarity, word relevance to retail or promotional use, and any potential trademark overlap before committing to a name.
 
-- Best fits read naturally with .discount as a full phrase
-- Broad terms can be more flexible than narrow product words
-- Literal keywords help clarity but can limit resale depth
-- Check renewal economics before valuing a low ask as cheap
+- 12,583 one-word .discount domain names in this selection
+- Median ask near $18 across the set
+- Compound retail-style names: backyard.discount, ladies.discount
+- Low entry price supports single picks or broader portfolios
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DISCOUNT One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DISCOUNT One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
