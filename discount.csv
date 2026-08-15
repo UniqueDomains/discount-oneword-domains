@@ -490,7 +490,7 @@ c5446dde-c5c3-46e9-b959-8a9bb38939fa,eaten.discount,available,7.99,,high,low,5,n
 b31804b9-eecb-4155-980a-aec909c770a2,mostly.discount,available,7.99,,medium,low,6,name.com,,
 358e2033-d8cf-4ef1-b54d-11e14fceb37f,standback.discount,available,7.99,,low,low,10,name.com,,
 a1f0d30c-c8f7-4ee2-9c9b-fd5dbb8da33c,heroic.discount,available,7.99,,high,low,6,name.com,,
-9099a199-8752-45c0-a51d-367006b38549,virtual.discount,resell,,,medium,low,7,GoDaddy Online Services Cayman Islands Ltd.,29/05/2015 07:44,29/05/2027 07:44
+9099a199-8752-45c0-a51d-367006b38549,virtual.discount,resell,,,medium,medium,7,GoDaddy Online Services Cayman Islands Ltd.,29/05/2015 07:44,29/05/2027 07:44
 333f8da7-0a62-4e60-8362-ad47fb17f553,treasurydepartment.discount,available,7.99,,medium,low,19,name.com,,
 7169bf57-6394-42d2-94fd-0e80240a651a,glittering.discount,available,7.99,43.99,low,low,10,name.com,,
 ffa59701-d1bd-481c-b63c-5ffa8f79b4cb,senescent.discount,available,7.99,43.99,low,low,9,name.com,,
