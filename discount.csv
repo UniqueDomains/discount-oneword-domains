@@ -10,7 +10,7 @@ e8da08ec-4874-4c11-bd9b-a37b5101f0ff,foolish.discount,available,7.99,43.99,mediu
 34ded019-740a-4c96-ac2b-fcba57517978,flaring.discount,available,7.99,43.99,low,low,7,name.com,,
 da26f908-ef0b-482b-8952-db87e9436524,valid.discount,available,7.99,,high,low,5,name.com,,
 6b7c49e7-f9c3-43ed-9963-f9e392e650fb,transparent.discount,available,7.99,,high,low,11,name.com,,
-c8eb5fa5-da11-4c33-b6a4-2159eef1a57d,exercise.discount,available,7.99,,high,low,8,name.com,,
+c8eb5fa5-da11-4c33-b6a4-2159eef1a57d,exercise.discount,available,7.99,43.99,medium,low,8,name.com,,
 2f67ac27-e47a-456e-a9bc-7929c06789e5,spaceshuttle.discount,available,7.99,,high,low,13,name.com,,
 2ef55db6-c0ae-4030-acaf-0ee706b16a82,lying.discount,available,7.99,,high,low,5,name.com,,
 9ace8490-4677-4a99-a405-868afa7230ed,enticing.discount,available,7.99,43.99,high,low,8,name.com,,
