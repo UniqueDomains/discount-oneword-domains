@@ -939,7 +939,7 @@ e06342a7-79c0-4c5c-9ac7-584581e3e28c,butterfly.discount,available,7.99,,high,low
 b0b960a0-1092-41ee-9ce3-086077e04338,previous.discount,available,7.99,,high,low,8,name.com,,
 8872c235-d193-489a-b5b2-df20579e2837,conditions.discount,available,7.99,,medium,low,10,name.com,,
 e63c8eef-a773-4a24-b1ee-7211f511a768,wintertime.discount,available,7.99,,medium,low,11,name.com,,
-122e991c-a80e-43ea-804b-d7adf18280c1,chiefly.discount,available,7.99,,high,low,7,name.com,,
+122e991c-a80e-43ea-804b-d7adf18280c1,chiefly.discount,available,7.99,43.99,low,low,7,name.com,,
 52b84c92-1b29-4b9b-9501-bf34cae93e63,voting.discount,premium,78.54,78.54,high,low,6,namesilo,,
 a93e8fe7-9e48-402f-a471-34f5ae81ed9c,cooked.discount,available,7.99,43.99,high,low,6,name.com,,
 c14253e3-2b3b-4feb-8af4-3ac4f3e636d5,rated.discount,available,7.99,,medium,low,5,name.com,,
