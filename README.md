@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .discount one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,527 domains · **Median ask:** $14.12 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/discount`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,7 @@ print(df.head())
 
 | domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
 | -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| nothing.discount     | available | $7.99     | —             | high           | low    | 7      | name.com                                    |
 | Fla.discount         | available | $7.99     | —             | medium         | low    | 3      | name.com                                    |
 | virtual.discount     | resell    | —         | —             | medium         | medium | 7      | GoDaddy Online Services Cayman Islands Ltd. |
 | aim.discount         | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                    |
@@ -83,7 +84,6 @@ print(df.head())
 | buns.discount        | available | $7.99     | $43.99        | low            | low    | 4      | name.com                                    |
 | far.discount         | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                    |
 | demo.discount        | available | $7.99     | —             | high           | medium | 4      | name.com                                    |
-| IDK.discount         | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DISCOUNT One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DISCOUNT One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
