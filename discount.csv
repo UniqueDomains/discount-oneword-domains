@@ -198,7 +198,7 @@ c2e8b336-efe1-4d6b-b781-f634dd31ca26,unjustified.discount,available,7.99,,medium
 f1c8b876-7666-4a5c-a206-2c644afe7941,nitid.discount,available,7.99,43.99,low,low,5,name.com,,
 46da1f7f-11ae-4474-b931-f4dbfb3bdc8c,accurately.discount,available,7.99,,high,low,10,name.com,,
 4620f875-0473-4cb7-bf46-5ffc91817dba,YouTube.discount,available,,,high,medium,7,,,
-b3712aaf-87ea-4a08-b49b-b805c60be23d,breakfast.discount,resell,,,high,low,9,"GoDaddy.com, LLC",28/07/2021 21:07,28/07/2026 21:07
+b3712aaf-87ea-4a08-b49b-b805c60be23d,breakfast.discount,resell,,,medium,low,9,"GoDaddy.com, LLC",28/07/2021 21:07,28/07/2027 21:07
 9db580df-5ee8-4229-bbf0-e4fe66c470e3,parkingspot.discount,available,7.99,,high,low,12,name.com,,
 19fc1c3e-b5b7-46bb-b5d2-91937e86a23c,story.discount,available,7.99,,high,medium,5,name.com,,
 f3dd083d-c84d-427a-a3e6-334656869e49,teastrainer.discount,available,7.99,,high,low,12,name.com,,
@@ -490,7 +490,7 @@ c5446dde-c5c3-46e9-b959-8a9bb38939fa,eaten.discount,available,7.99,,high,low,5,n
 b31804b9-eecb-4155-980a-aec909c770a2,mostly.discount,available,7.99,,medium,low,6,name.com,,
 358e2033-d8cf-4ef1-b54d-11e14fceb37f,standback.discount,available,7.99,,low,low,10,name.com,,
 a1f0d30c-c8f7-4ee2-9c9b-fd5dbb8da33c,heroic.discount,available,7.99,,high,low,6,name.com,,
-9099a199-8752-45c0-a51d-367006b38549,virtual.discount,resell,,,medium,low,7,GoDaddy Online Services Cayman Islands Ltd.,29/05/2015 07:44,29/05/2027 07:44
+9099a199-8752-45c0-a51d-367006b38549,virtual.discount,resell,,,medium,medium,7,GoDaddy Online Services Cayman Islands Ltd.,29/05/2015 07:44,29/05/2027 07:44
 333f8da7-0a62-4e60-8362-ad47fb17f553,treasurydepartment.discount,available,7.99,,medium,low,19,name.com,,
 7169bf57-6394-42d2-94fd-0e80240a651a,glittering.discount,available,7.99,43.99,low,low,10,name.com,,
 ffa59701-d1bd-481c-b63c-5ffa8f79b4cb,senescent.discount,available,7.99,43.99,low,low,9,name.com,,
@@ -574,7 +574,7 @@ cc6f289a-8955-462d-8268-28145cb161a5,oil.discount,premium,82.5,82.5,high,low,3,n
 df3577fb-13e4-4db6-b508-93488a76ee3a,roughly.discount,available,7.99,43.99,medium,low,7,name.com,,
 962b0489-1dfa-4d97-9122-e498cafa64bb,bedimmed.discount,available,7.99,43.99,low,low,8,name.com,,
 a2596455-4ddf-4df4-a358-3f6dddc9989b,putoutof.discount,available,7.99,,low,low,10,name.com,,
-9462e0e6-7096-4513-9559-4a46902d15ca,nutritious.discount,available,7.99,43.99,high,low,10,name.com,,
+9462e0e6-7096-4513-9559-4a46902d15ca,nutritious.discount,available,7.99,43.99,medium,low,10,name.com,,
 51aebc2a-39f9-46f4-8eb3-51923af06f7a,cairo.discount,available,7.99,,medium,low,5,name.com,,
 57dac39f-4374-4aa2-8c11-8515016c23ae,grinning.discount,available,7.99,,high,low,8,name.com,,
 9d97047a-216b-4f96-a302-5bdfc3a16469,yellow.discount,available,7.99,,high,low,6,name.com,,
