@@ -1,10 +1,10 @@
-# Available .DISCOUNT One-Word Domains (31,567)
+# Available .DISCOUNT One-Word Domains (33,097)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C567%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C097%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .discount one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **31,567 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **33,097 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 31,567 domains · **Median ask:** $26.75 · **High-demand under $2,500:** 3
+**Public extract:** 1,000 rows · **Live catalog:** 33,097 domains · **Median ask:** $26.77 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-02
 **Canonical page:** `https://unique.domains/domains/tld/discount`
 **Best for:** founders, investors, studios
 
@@ -73,7 +73,7 @@ print(df.head())
 | cic.discount     | available | $24.01    | $24.01        | high           | low    | 3      | spaceship                                   |
 | virtual.discount | resell    | —         | —             | high           | medium | 7      | GoDaddy Online Services Cayman Islands Ltd. |
 | bio.discount     | premium   | $38.94    | $38.94        | high           | medium | 3      | namesilo                                    |
-| cnn.discount     | available | $7.99     | —             | high           | low    | 3      | name.com                                    |
+| cnn.discount     | available | $24.01    | $24.01        | high           | low    | 3      | spaceship                                   |
 | cfa.discount     | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                                    |
 | dsc.discount     | available | $23.20    | $23.20        | high           | low    | 3      | cloudflare                                  |
 | chi.discount     | premium   | $34.36    | $34.36        | high           | low    | 3      | spaceship                                   |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 31,567 live domains                        |
+| 1,000-row public sample | 33,097 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 3 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DISCOUNT One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DISCOUNT One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
